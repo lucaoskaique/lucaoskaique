@@ -1,8 +1,8 @@
 ### Olá! Eu sou Lucas Kaíque 👋
-- 🔭 Hoje trabalho com back-end e front-end
-- 🌱 Estou estudando NodeJS e ReactJS
-- 📫 Contate-me no e-mail: lucas.kaique175@hotmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Working with back-end and sometimes with front-end
+- 🌱 Studying NodeJS and ReactJS
+- 📫 Contact me on: lucas.kaique175@hotmail.com
+- 😄 Pronouns: ele/dele he/his
 
 <div>
   <a href="https://github.com/c7hulhu">
