@@ -1,6 +1,6 @@
-### Olá! Eu sou Lucas Kaíque 👋
+### Hi! Lucas Kaíque here 👋
 - 🔭 Working with back-end and sometimes with front-end
-- 🌱 Studying NodeJS and ReactJS
+- 🌱 Studying Computer Engineering
 - 📫 Contact me on: lucas.kaique175@hotmail.com
 - 😄 Pronouns: ele/dele he/his
 
