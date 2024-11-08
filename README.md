@@ -1,7 +1,6 @@
 ### Hi! Lucas Kaíque here 👋
 - 🔭 Working with back-end and sometimes with front-end
-- 🌱 Studying Computer Engineering, DevOps and Web3
-- 📫 Contact me on: lucas.kaique175@hotmail.com
+- 📫 Contact me on: me@lucaskaique.com.br
 - 😄 Pronouns: ele/dele he/his
 
 <div>
